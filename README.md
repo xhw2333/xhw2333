@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+- 👦 Haobin Liu
 -->
 
-- 👦 Haobin Liu
+
 - 🔭 广东工业大学
 - 🌱 前端
 - 👯 QG工作室
